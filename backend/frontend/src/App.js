@@ -1,4 +1,3 @@
-import React from 'react';
 import React, { useState } from 'react';
 import MarkdownEditor from './components/MarkdownEditor';
 import './App.css';
@@ -24,7 +23,7 @@ function App() {
     const formData = new FormData();
     formData.append('file', file);
     try {
-      const res = await fetch('http://localhost:52560/upload', {
+      const res = await fetch('http://192.168.50.44:52560/upload', {
         method: 'POST',
         body: formData,
       });
