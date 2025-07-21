@@ -2,6 +2,13 @@
 
 ## Project: PDF Menu OCR to Markdown Web Application
 
+### Sample Menu PDF
+A sample menu PDF is included for reference and testing:
+
+- **docs/Wimpies-recept-kwartel--witlof--druif.pdf**
+  - This file is a real menu scan matching the target structure (front page + 4 recipe pages, columns of ingredients, steps/substeps).
+  - Use this file for development, testing, and documentation examples.
+
 ### Overview
 A modern web application that allows users to upload a PDF file containing images of a menu (with recipes), performs OCR (using the latest Tesseract), and outputs a structured, editable markdown file. The application is designed for menus with a consistent layout: a front page with 4 recipe titles, followed by 4 pages each describing a recipe. Each recipe page contains 3 columns of ingredients at the top and 3-5 steps (with possible substeps) below.
 
