@@ -9,9 +9,9 @@ Track the testing process for converting the PDF OCR backend to use only Tessera
 ## Test Environment
 
 - **System**: Ubuntu LXC (Proxmox)
-- **Tesseract Version**: [To be determined]
+- **Tesseract Version**: 5.3.0
 - **Python Version**: 3.x
-- **Sample PDF**: `docs/Wimpies-recept-kwartel--witlof--druif.pdf`
+- **Sample PDF**: `docs/2023-10 kwartel, kabeljauw, kalf, bananenrol.pdf`
 
 ## Test Cases
 
@@ -94,7 +94,7 @@ Track the testing process for converting the PDF OCR backend to use only Tessera
 | Basic PDF Processing | ✅ Completed | Tesseract works with PDF->PNG conversion |
 | Layout Analysis with hOCR | ✅ Completed | hOCR output provides bounding boxes |
 | Layout Analysis with TSV | ✅ Completed | TSV output provides precise coordinates |
-| Column Detection Algorithm | Pending | Need to implement parsing logic |
+| Column Detection Algorithm | ✅ Completed | Analyzed x-coordinate distribution for column boundaries |
 | Markdown Generation | Pending | Need to implement formatting |
 | Performance Testing | Pending | Need to test full pipeline |
 

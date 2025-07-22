@@ -68,6 +68,9 @@ A sample menu PDF is included in the `docs/` directory for testing:
 
 - [Product Requirements Document (PRD)](docs/PRD.md)
 - [Backend README](backend/README.md)
+- [Tesseract Conversion Plan](docs/tesseract-conversion-plan.md)
+- [Tesseract Research](docs/tesseract-research.md)
+- [Tesseract Testing](docs/tesseract-testing.md)
 
 ## License
 

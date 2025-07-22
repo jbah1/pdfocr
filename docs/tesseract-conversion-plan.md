@@ -80,8 +80,39 @@ Convert the PDF Menu OCR backend to use only Tesseract for both column recogniti
 5. **Performance**: Test processing time for multi-page PDFs
 
 ### Test Files
-- Use existing sample: `docs/Wimpies-recept-kwartel--witlof--druif.pdf`
+- Use existing sample: `docs/2023-10 kwartel, kabeljauw, kalf, bananenrol.pdf`
 - Create additional test PDFs with different column layouts
+
+### Expected Output Format
+For page-2.png analysis, the desired output should be:
+
+```
+November 2023
+Voorgerecht
+hazenrug filet met kool salade en rode biet
+Ingredienten voor 10 personen
+
+# First column:
+Hazenrug filet;
+4 hazenrug filet
+Peper zout olijfolie
+6 grote champignons 2 sjalot. 1/4
+bieslook
+
+# Second column:
+Garnituur:
+1/2 spitskool
+1/4 rode kool
+Tijm peper zout, azijn
+suiker
+Bieten peper zout olijfolie
+
+# Third column:
+Dressing:
+50 gr rode wijn azijn,
+2 sjalotjes, 100 gr
+zonnebloem olie, peper, zout
+```
 
 ## Risks and Mitigations
 
