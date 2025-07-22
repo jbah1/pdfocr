@@ -1,0 +1,282 @@
+[
+  {
+    "text": "Oktober",
+    "left": 332,
+    "top": 59,
+    "right": 426,
+    "bottom": 79
+  },
+  {
+    "text": "2023",
+    "left": 434,
+    "top": 57,
+    "right": 489,
+    "bottom": 77
+  },
+  {
+    "text": "Menu",
+    "left": 379,
+    "top": 107,
+    "right": 454,
+    "bottom": 131
+  },
+  {
+    "text": "Voorgerecht",
+    "left": 318,
+    "top": 218,
+    "right": 520,
+    "bottom": 253
+  },
+  {
+    "text": "Kwartel,",
+    "left": 273,
+    "top": 261,
+    "right": 392,
+    "bottom": 291
+  },
+  {
+    "text": "witlof,",
+    "left": 404,
+    "top": 258,
+    "right": 489,
+    "bottom": 289
+  },
+  {
+    "text": "druif",
+    "left": 503,
+    "top": 257,
+    "right": 570,
+    "bottom": 284
+  },
+  {
+    "text": "Tussen",
+    "left": 298,
+    "top": 424,
+    "right": 415,
+    "bottom": 450
+  },
+  {
+    "text": "gerecht",
+    "left": 428,
+    "top": 419,
+    "right": 548,
+    "bottom": 454
+  },
+  {
+    "text": "Kabeljauw",
+    "left": 215,
+    "top": 464,
+    "right": 370,
+    "bottom": 497
+  },
+  {
+    "text": "tomaat",
+    "left": 381,
+    "top": 461,
+    "right": 483,
+    "bottom": 488
+  },
+  {
+    "text": "basilicum",
+    "left": 495,
+    "top": 457,
+    "right": 632,
+    "bottom": 485
+  },
+  {
+    "text": "Spinazie",
+    "left": 363,
+    "top": 500,
+    "right": 489,
+    "bottom": 534
+  },
+  {
+    "text": "Hoofdgerecht",
+    "left": 322,
+    "top": 656,
+    "right": 538,
+    "bottom": 690
+  },
+  {
+    "text": "Kalf",
+    "left": 303,
+    "top": 699,
+    "right": 361,
+    "bottom": 726
+  },
+  {
+    "text": "vlees,",
+    "left": 370,
+    "top": 698,
+    "right": 454,
+    "bottom": 726
+  },
+  {
+    "text": "selder",
+    "left": 468,
+    "top": 695,
+    "right": 557,
+    "bottom": 721
+  },
+  {
+    "text": "Nagerecht",
+    "left": 379,
+    "top": 853,
+    "right": 542,
+    "bottom": 888
+  },
+  {
+    "text": "Bananen",
+    "left": 134,
+    "top": 906,
+    "right": 267,
+    "bottom": 931
+  },
+  {
+    "text": "rol",
+    "left": 281,
+    "top": 899,
+    "right": 315,
+    "bottom": 926
+  },
+  {
+    "text": "met",
+    "left": 329,
+    "top": 898,
+    "right": 383,
+    "bottom": 924
+  },
+  {
+    "text": "chocolade",
+    "left": 394,
+    "top": 892,
+    "right": 546,
+    "bottom": 922
+  },
+  {
+    "text": "panna",
+    "left": 559,
+    "top": 896,
+    "right": 651,
+    "bottom": 924
+  },
+  {
+    "text": "cotta",
+    "left": 663,
+    "top": 885,
+    "right": 734,
+    "bottom": 925
+  },
+  {
+    "text": "ot",
+    "left": 180,
+    "top": 1170,
+    "right": 196,
+    "bottom": 1179
+  },
+  {
+    "text": "+",
+    "left": 203,
+    "top": 1171,
+    "right": 205,
+    "bottom": 1178
+  },
+  {
+    "text": "oat",
+    "left": 212,
+    "top": 1170,
+    "right": 229,
+    "bottom": 1178
+  },
+  {
+    "text": "[wim",
+    "left": 253,
+    "top": 1167,
+    "right": 282,
+    "bottom": 1180
+  },
+  {
+    "text": "walks}",
+    "left": 287,
+    "top": 1167,
+    "right": 322,
+    "bottom": 1181
+  },
+  {
+    "text": "fobriekstraat",
+    "left": 351,
+    "top": 1167,
+    "right": 420,
+    "bottom": 1180
+  },
+  {
+    "text": "69",
+    "left": 424,
+    "top": 1170,
+    "right": 439,
+    "bottom": 1181
+  },
+  {
+    "text": "[15051",
+    "left": 467,
+    "top": 1169,
+    "right": 502,
+    "bottom": 1183
+  },
+  {
+    "text": "HN}",
+    "left": 510,
+    "top": 1169,
+    "right": 536,
+    "bottom": 1183
+  },
+  {
+    "text": "ge",
+    "left": 564,
+    "top": 1174,
+    "right": 571,
+    "bottom": 1184
+  },
+  {
+    "text": "le",
+    "left": 588,
+    "top": 1169,
+    "right": 596,
+    "bottom": 1181
+  },
+  {
+    "text": "[1.06",
+    "left": 625,
+    "top": 1169,
+    "right": 635,
+    "bottom": 1183
+  },
+  {
+    "text": "22",
+    "left": 663,
+    "top": 1169,
+    "right": 677,
+    "bottom": 1180
+  },
+  {
+    "text": "55",
+    "left": 682,
+    "top": 1169,
+    "right": 696,
+    "bottom": 1180
+  },
+  {
+    "text": "11",
+    "left": 703,
+    "top": 1169,
+    "right": 713,
+    "bottom": 1179
+  },
+  {
+    "text": "38}",
+    "left": 721,
+    "top": 1168,
+    "right": 743,
+    "bottom": 1182
+  }
+]
