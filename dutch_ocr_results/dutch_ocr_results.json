@@ -1,0 +1,3443 @@
+{
+  "page-2": {
+    "page": "page-2",
+    "expected": {
+      "column_1": [
+        "Hazenrug filet;",
+        "4 hazenrug filet",
+        "Peper zout olijfolie",
+        "6 grote champignons 2 sjalot. 1/4",
+        "bieslook"
+      ],
+      "column_2": [
+        "Garnituur:",
+        "1/2 spitskool",
+        "1/4 rode kool",
+        "Tijm peper zout, azijn",
+        "suiker",
+        "Bieten peper zout olijfolie"
+      ],
+      "column_3": [
+        "Dressing:",
+        "50 gr rode wijn azijn,",
+        "2 sjalotjes, 100 gr",
+        "zonnebloem olie, peper, zout"
+      ]
+    },
+    "psm_results": {
+      "psm6": {
+        "words": [
+          {
+            "text": "personen",
+            "left": 459,
+            "top": 251,
+            "right": 68,
+            "bottom": 18,
+            "confidence": 92.510902
+          },
+          {
+            "text": "|",
+            "left": 734,
+            "top": 257,
+            "right": 1,
+            "bottom": 14,
+            "confidence": 70.427322
+          },
+          {
+            "text": "5",
+            "left": 334,
+            "top": 296,
+            "right": 7,
+            "bottom": 12,
+            "confidence": 53.896133
+          },
+          {
+            "text": "|",
+            "left": 326,
+            "top": 315,
+            "right": 1,
+            "bottom": 14,
+            "confidence": 85.752403
+          },
+          {
+            "text": "1",
+            "left": 249,
+            "top": 336,
+            "right": 5,
+            "bottom": 12,
+            "confidence": 30.862068
+          },
+          {
+            "text": "|",
+            "left": 735,
+            "top": 338,
+            "right": 1,
+            "bottom": 7,
+            "confidence": 67.706947
+          },
+          {
+            "text": "elkaar",
+            "left": 264,
+            "top": 502,
+            "right": 41,
+            "bottom": 12,
+            "confidence": 88.838211
+          },
+          {
+            "text": "eruit",
+            "left": 325,
+            "top": 517,
+            "right": 29,
+            "bottom": 13,
+            "confidence": 93.854477
+          },
+          {
+            "text": "vel",
+            "left": 319,
+            "top": 537,
+            "right": 19,
+            "bottom": 11,
+            "confidence": 96.735077
+          },
+          {
+            "text": "zouten",
+            "left": 353,
+            "top": 554,
+            "right": 45,
+            "bottom": 12,
+            "confidence": 96.752167
+          },
+          {
+            "text": "pan",
+            "left": 297,
+            "top": 578,
+            "right": 25,
+            "bottom": 13,
+            "confidence": 95.264229
+          },
+          {
+            "text": "leggen)",
+            "left": 246,
+            "top": 594,
+            "right": 50,
+            "bottom": 16,
+            "confidence": 96.356865
+          },
+          {
+            "text": "hete",
+            "left": 292,
+            "top": 613,
+            "right": 29,
+            "bottom": 11,
+            "confidence": 96.34935
+          },
+          {
+            "text": "met",
+            "left": 305,
+            "top": 631,
+            "right": 25,
+            "bottom": 11,
+            "confidence": 96.947899
+          },
+          {
+            "text": "het",
+            "left": 330,
+            "top": 684,
+            "right": 21,
+            "bottom": 12,
+            "confidence": 95.237457
+          },
+          {
+            "text": "met",
+            "left": 288,
+            "top": 705,
+            "right": 24,
+            "bottom": 12,
+            "confidence": 92.396347
+          },
+          {
+            "text": "met",
+            "left": 315,
+            "top": 722,
+            "right": 25,
+            "bottom": 12,
+            "confidence": 95.086159
+          },
+          {
+            "text": "en",
+            "left": 339,
+            "top": 742,
+            "right": 16,
+            "bottom": 9,
+            "confidence": 96.671028
+          },
+          {
+            "text": "azijn",
+            "left": 229,
+            "top": 800,
+            "right": 31,
+            "bottom": 15,
+            "confidence": 90.706749
+          },
+          {
+            "text": "zout).",
+            "left": 342,
+            "top": 811,
+            "right": 37,
+            "bottom": 15,
+            "confidence": 95.260559
+          },
+          {
+            "text": "hierop",
+            "left": 307,
+            "top": 870,
+            "right": 41,
+            "bottom": 13,
+            "confidence": 91.658623
+          },
+          {
+            "text": "in",
+            "left": 387,
+            "top": 888,
+            "right": 10,
+            "bottom": 9,
+            "confidence": 95.737251
+          },
+          {
+            "text": "de",
+            "left": 326,
+            "top": 925,
+            "right": 16,
+            "bottom": 12,
+            "confidence": 94.413788
+          },
+          {
+            "text": "druffes",
+            "left": 286,
+            "top": 945,
+            "right": 49,
+            "bottom": 15,
+            "confidence": 45.065384
+          },
+          {
+            "text": "wim",
+            "left": 259,
+            "top": 1168,
+            "right": 21,
+            "bottom": 6,
+            "confidence": 89.376343
+          },
+          {
+            "text": "_[SOSIHN]",
+            "left": 463,
+            "top": 1162,
+            "right": 68,
+            "bottom": 15,
+            "confidence": 45.227058
+          }
+        ],
+        "column_analysis": {
+          "column_1": {
+            "expected_words": [
+              "Hazenrug",
+              "filet;",
+              "4",
+              "hazenrug",
+              "filet",
+              "Peper",
+              "zout",
+              "olijfolie",
+              "6",
+              "grote",
+              "champignons",
+              "2",
+              "sjalot.",
+              "1/4",
+              "bieslook"
+            ],
+            "expected_count": 14,
+            "hit_count": 0,
+            "hit_rate": 0.0,
+            "hits": []
+          },
+          "column_2": {
+            "expected_words": [
+              "Garnituur:",
+              "1/2",
+              "spitskool",
+              "1/4",
+              "rode",
+              "kool",
+              "Tijm",
+              "peper",
+              "zout,",
+              "azijn",
+              "suiker",
+              "Bieten",
+              "peper",
+              "zout",
+              "olijfolie"
+            ],
+            "expected_count": 14,
+            "hit_count": 1,
+            "hit_rate": 0.07142857142857142,
+            "hits": [
+              "azijn"
+            ]
+          },
+          "column_3": {
+            "expected_words": [
+              "Dressing:",
+              "50",
+              "gr",
+              "rode",
+              "wijn",
+              "azijn,",
+              "2",
+              "sjalotjes,",
+              "100",
+              "gr",
+              "zonnebloem",
+              "olie,",
+              "peper,",
+              "zout"
+            ],
+            "expected_count": 13,
+            "hit_count": 0,
+            "hit_rate": 0.0,
+            "hits": []
+          }
+        }
+      },
+      "psm11": {
+        "words": [
+          {
+            "text": "chef",
+            "left": 213,
+            "top": 336,
+            "right": 30,
+            "bottom": 13,
+            "confidence": 90.134338
+          },
+          {
+            "text": "sn",
+            "left": 310,
+            "top": 499,
+            "right": 18,
+            "bottom": 13,
+            "confidence": 21.094849
+          },
+          {
+            "text": "v",
+            "left": 319,
+            "top": 540,
+            "right": 7,
+            "bottom": 8,
+            "confidence": 81.273071
+          },
+          {
+            "text": "olijfolie",
+            "left": 454,
+            "top": 548,
+            "right": 45,
+            "bottom": 15,
+            "confidence": 45.08548
+          },
+          {
+            "text": "pan",
+            "left": 297,
+            "top": 578,
+            "right": 25,
+            "bottom": 13,
+            "confidence": 94.764679
+          },
+          {
+            "text": "bakken",
+            "left": 475,
+            "top": 566,
+            "right": 48,
+            "bottom": 12,
+            "confidence": 95.147491
+          },
+          {
+            "text": "leggen",
+            "left": 550,
+            "top": 599,
+            "right": 45,
+            "bottom": 14,
+            "confidence": 95.476524
+          },
+          {
+            "text": "\u201a",
+            "left": 370,
+            "top": 638,
+            "right": 1,
+            "bottom": 3,
+            "confidence": 31.93782
+          },
+          {
+            "text": "van",
+            "left": 399,
+            "top": 682,
+            "right": 23,
+            "bottom": 10,
+            "confidence": 90.938072
+          },
+          {
+            "text": "snijden.",
+            "left": 592,
+            "top": 669,
+            "right": 49,
+            "bottom": 15,
+            "confidence": 89.175636
+          },
+          {
+            "text": "snijden,",
+            "left": 425,
+            "top": 696,
+            "right": 47,
+            "bottom": 16,
+            "confidence": 79.232033
+          },
+          {
+            "text": "graden",
+            "left": 648,
+            "top": 724,
+            "right": 48,
+            "bottom": 16,
+            "confidence": 80.360535
+          },
+          {
+            "text": "snijden",
+            "left": 287,
+            "top": 741,
+            "right": 47,
+            "bottom": 16,
+            "confidence": 87.000641
+          },
+          {
+            "text": "drogen",
+            "left": 468,
+            "top": 733,
+            "right": 46,
+            "bottom": 14,
+            "confidence": 95.43158
+          },
+          {
+            "text": "op",
+            "left": 704,
+            "top": 780,
+            "right": 17,
+            "bottom": 12,
+            "confidence": 96.846664
+          },
+          {
+            "text": "sojasaus",
+            "left": 356,
+            "top": 794,
+            "right": 59,
+            "bottom": 14,
+            "confidence": 96.796707
+          },
+          {
+            "text": "steker.",
+            "left": 470,
+            "top": 861,
+            "right": 41,
+            "bottom": 12,
+            "confidence": 83.394516
+          },
+          {
+            "text": "let",
+            "left": 461,
+            "top": 881,
+            "right": 16,
+            "bottom": 12,
+            "confidence": 80.440811
+          },
+          {
+            "text": "spek",
+            "left": 444,
+            "top": 918,
+            "right": 32,
+            "bottom": 15,
+            "confidence": 96.681061
+          },
+          {
+            "text": "de",
+            "left": 498,
+            "top": 935,
+            "right": 17,
+            "bottom": 13,
+            "confidence": 93.292503
+          },
+          {
+            "text": "scheppen.",
+            "left": 651,
+            "top": 927,
+            "right": 70,
+            "bottom": 15,
+            "confidence": 95.017204
+          },
+          {
+            "text": "en",
+            "left": 340,
+            "top": 946,
+            "right": 16,
+            "bottom": 9,
+            "confidence": 96.716995
+          },
+          {
+            "text": "38]",
+            "left": 715,
+            "top": 1150,
+            "right": 25,
+            "bottom": 31,
+            "confidence": 65.375015
+          }
+        ],
+        "column_analysis": {
+          "column_1": {
+            "expected_words": [
+              "Hazenrug",
+              "filet;",
+              "4",
+              "hazenrug",
+              "filet",
+              "Peper",
+              "zout",
+              "olijfolie",
+              "6",
+              "grote",
+              "champignons",
+              "2",
+              "sjalot.",
+              "1/4",
+              "bieslook"
+            ],
+            "expected_count": 14,
+            "hit_count": 1,
+            "hit_rate": 0.07142857142857142,
+            "hits": [
+              "olijfolie"
+            ]
+          },
+          "column_2": {
+            "expected_words": [
+              "Garnituur:",
+              "1/2",
+              "spitskool",
+              "1/4",
+              "rode",
+              "kool",
+              "Tijm",
+              "peper",
+              "zout,",
+              "azijn",
+              "suiker",
+              "Bieten",
+              "peper",
+              "zout",
+              "olijfolie"
+            ],
+            "expected_count": 14,
+            "hit_count": 1,
+            "hit_rate": 0.07142857142857142,
+            "hits": [
+              "olijfolie"
+            ]
+          },
+          "column_3": {
+            "expected_words": [
+              "Dressing:",
+              "50",
+              "gr",
+              "rode",
+              "wijn",
+              "azijn,",
+              "2",
+              "sjalotjes,",
+              "100",
+              "gr",
+              "zonnebloem",
+              "olie,",
+              "peper,",
+              "zout"
+            ],
+            "expected_count": 13,
+            "hit_count": 0,
+            "hit_rate": 0.0,
+            "hits": []
+          }
+        }
+      },
+      "psm12": {
+        "words": [
+          {
+            "text": "chef",
+            "left": 213,
+            "top": 336,
+            "right": 30,
+            "bottom": 13,
+            "confidence": 90.134338
+          },
+          {
+            "text": "sn",
+            "left": 310,
+            "top": 499,
+            "right": 18,
+            "bottom": 13,
+            "confidence": 21.094849
+          },
+          {
+            "text": "v",
+            "left": 319,
+            "top": 540,
+            "right": 7,
+            "bottom": 8,
+            "confidence": 81.273071
+          },
+          {
+            "text": "olijfolie",
+            "left": 454,
+            "top": 548,
+            "right": 45,
+            "bottom": 15,
+            "confidence": 45.08548
+          },
+          {
+            "text": "pan",
+            "left": 297,
+            "top": 578,
+            "right": 25,
+            "bottom": 13,
+            "confidence": 94.764679
+          },
+          {
+            "text": "bakken",
+            "left": 475,
+            "top": 566,
+            "right": 48,
+            "bottom": 12,
+            "confidence": 95.147491
+          },
+          {
+            "text": "leggen",
+            "left": 550,
+            "top": 599,
+            "right": 45,
+            "bottom": 14,
+            "confidence": 95.476524
+          },
+          {
+            "text": "\u201a",
+            "left": 370,
+            "top": 638,
+            "right": 1,
+            "bottom": 3,
+            "confidence": 31.93782
+          },
+          {
+            "text": "van",
+            "left": 399,
+            "top": 682,
+            "right": 23,
+            "bottom": 10,
+            "confidence": 90.938072
+          },
+          {
+            "text": "snijden.",
+            "left": 592,
+            "top": 669,
+            "right": 49,
+            "bottom": 15,
+            "confidence": 89.175636
+          },
+          {
+            "text": "snijden,",
+            "left": 425,
+            "top": 696,
+            "right": 47,
+            "bottom": 16,
+            "confidence": 79.232033
+          },
+          {
+            "text": "graden",
+            "left": 648,
+            "top": 724,
+            "right": 48,
+            "bottom": 16,
+            "confidence": 80.360535
+          },
+          {
+            "text": "snijden",
+            "left": 287,
+            "top": 741,
+            "right": 47,
+            "bottom": 16,
+            "confidence": 87.000641
+          },
+          {
+            "text": "drogen",
+            "left": 468,
+            "top": 733,
+            "right": 46,
+            "bottom": 14,
+            "confidence": 95.43158
+          },
+          {
+            "text": "op",
+            "left": 704,
+            "top": 780,
+            "right": 17,
+            "bottom": 12,
+            "confidence": 96.846664
+          },
+          {
+            "text": "sojasaus",
+            "left": 356,
+            "top": 794,
+            "right": 59,
+            "bottom": 14,
+            "confidence": 96.796707
+          },
+          {
+            "text": "steker.",
+            "left": 470,
+            "top": 861,
+            "right": 41,
+            "bottom": 12,
+            "confidence": 83.394516
+          },
+          {
+            "text": "let",
+            "left": 461,
+            "top": 881,
+            "right": 16,
+            "bottom": 12,
+            "confidence": 80.440811
+          },
+          {
+            "text": "spek",
+            "left": 444,
+            "top": 918,
+            "right": 32,
+            "bottom": 15,
+            "confidence": 96.681061
+          },
+          {
+            "text": "de",
+            "left": 498,
+            "top": 935,
+            "right": 17,
+            "bottom": 13,
+            "confidence": 93.292503
+          },
+          {
+            "text": "scheppen.",
+            "left": 651,
+            "top": 927,
+            "right": 70,
+            "bottom": 15,
+            "confidence": 95.017204
+          },
+          {
+            "text": "en",
+            "left": 340,
+            "top": 946,
+            "right": 16,
+            "bottom": 9,
+            "confidence": 96.716995
+          },
+          {
+            "text": "38]",
+            "left": 715,
+            "top": 1150,
+            "right": 25,
+            "bottom": 31,
+            "confidence": 65.375015
+          }
+        ],
+        "column_analysis": {
+          "column_1": {
+            "expected_words": [
+              "Hazenrug",
+              "filet;",
+              "4",
+              "hazenrug",
+              "filet",
+              "Peper",
+              "zout",
+              "olijfolie",
+              "6",
+              "grote",
+              "champignons",
+              "2",
+              "sjalot.",
+              "1/4",
+              "bieslook"
+            ],
+            "expected_count": 14,
+            "hit_count": 1,
+            "hit_rate": 0.07142857142857142,
+            "hits": [
+              "olijfolie"
+            ]
+          },
+          "column_2": {
+            "expected_words": [
+              "Garnituur:",
+              "1/2",
+              "spitskool",
+              "1/4",
+              "rode",
+              "kool",
+              "Tijm",
+              "peper",
+              "zout,",
+              "azijn",
+              "suiker",
+              "Bieten",
+              "peper",
+              "zout",
+              "olijfolie"
+            ],
+            "expected_count": 14,
+            "hit_count": 1,
+            "hit_rate": 0.07142857142857142,
+            "hits": [
+              "olijfolie"
+            ]
+          },
+          "column_3": {
+            "expected_words": [
+              "Dressing:",
+              "50",
+              "gr",
+              "rode",
+              "wijn",
+              "azijn,",
+              "2",
+              "sjalotjes,",
+              "100",
+              "gr",
+              "zonnebloem",
+              "olie,",
+              "peper,",
+              "zout"
+            ],
+            "expected_count": 13,
+            "hit_count": 0,
+            "hit_rate": 0.0,
+            "hits": []
+          }
+        }
+      }
+    }
+  },
+  "page-5": {
+    "page": "page-5",
+    "expected": {
+      "column_1": [
+        "Appeltje:",
+        "10 appeltjes frangipane/of spijs",
+        "Suiker",
+        "Poedersuiker",
+        "Bladerdeeg 3 plakjes"
+      ],
+      "column_2": [
+        "Parfait:",
+        "5 eidooiers en 2 eieren",
+        "100 gr suiker",
+        "400 gr room",
+        "6 speculaas"
+      ],
+      "column_3": [
+        "koekje:",
+        "3 plakje bladerdeeg",
+        "Suiker kaneel, water"
+      ]
+    },
+    "psm_results": {
+      "psm6": {
+        "words": [
+          {
+            "text": "chocolade",
+            "left": 364,
+            "top": 132,
+            "right": 89,
+            "bottom": 17,
+            "confidence": 96.199562
+          },
+          {
+            "text": "personen",
+            "left": 450,
+            "top": 167,
+            "right": 69,
+            "bottom": 16,
+            "confidence": 91.846695
+          },
+          {
+            "text": "is,",
+            "left": 370,
+            "top": 191,
+            "right": 17,
+            "bottom": 13,
+            "confidence": 79.332047
+          },
+          {
+            "text": "gr",
+            "left": 352,
+            "top": 210,
+            "right": 13,
+            "bottom": 13,
+            "confidence": 96.532127
+          },
+          {
+            "text": "gr",
+            "left": 352,
+            "top": 229,
+            "right": 14,
+            "bottom": 13,
+            "confidence": 95.703995
+          },
+          {
+            "text": "eidooiers",
+            "left": 335,
+            "top": 245,
+            "right": 62,
+            "bottom": 13,
+            "confidence": 72.55188
+          },
+          {
+            "text": "|1ei",
+            "left": 519,
+            "top": 255,
+            "right": 32,
+            "bottom": 15,
+            "confidence": 7.944939
+          },
+          {
+            "text": "|",
+            "left": 519,
+            "top": 269,
+            "right": 1,
+            "bottom": 24,
+            "confidence": 77.156563
+          },
+          {
+            "text": "gr",
+            "left": 219,
+            "top": 344,
+            "right": 13,
+            "bottom": 13,
+            "confidence": 96.756378
+          },
+          {
+            "text": "hierop",
+            "left": 329,
+            "top": 492,
+            "right": 41,
+            "bottom": 13,
+            "confidence": 93.872696
+          },
+          {
+            "text": "koekjes",
+            "left": 294,
+            "top": 511,
+            "right": 51,
+            "bottom": 14,
+            "confidence": 93.300552
+          },
+          {
+            "text": "kleine",
+            "left": 302,
+            "top": 531,
+            "right": 38,
+            "bottom": 11,
+            "confidence": 66.332542
+          },
+          {
+            "text": "bestrijken,",
+            "left": 234,
+            "top": 550,
+            "right": 67,
+            "bottom": 15,
+            "confidence": 96.304291
+          },
+          {
+            "text": "melk",
+            "left": 236,
+            "top": 605,
+            "right": 32,
+            "bottom": 13,
+            "confidence": 95.853691
+          },
+          {
+            "text": "suiker",
+            "left": 268,
+            "top": 623,
+            "right": 40,
+            "bottom": 12,
+            "confidence": 87.453804
+          },
+          {
+            "text": "de",
+            "left": 280,
+            "top": 642,
+            "right": 17,
+            "bottom": 11,
+            "confidence": 96.397346
+          },
+          {
+            "text": "vuur",
+            "left": 226,
+            "top": 665,
+            "right": 31,
+            "bottom": 10,
+            "confidence": 86.238266
+          },
+          {
+            "text": "zeef",
+            "left": 238,
+            "top": 680,
+            "right": 29,
+            "bottom": 13,
+            "confidence": 94.10778
+          },
+          {
+            "text": "spijs",
+            "left": 234,
+            "top": 775,
+            "right": 30,
+            "bottom": 12,
+            "confidence": 93.153938
+          },
+          {
+            "text": "de",
+            "left": 288,
+            "top": 808,
+            "right": 16,
+            "bottom": 12,
+            "confidence": 88.3825
+          },
+          {
+            "text": "de",
+            "left": 276,
+            "top": 863,
+            "right": 16,
+            "bottom": 12,
+            "confidence": 93.230789
+          },
+          {
+            "text": "erbij",
+            "left": 251,
+            "top": 883,
+            "right": 28,
+            "bottom": 15,
+            "confidence": 91.036644
+          },
+          {
+            "text": "schaaltjes",
+            "left": 273,
+            "top": 900,
+            "right": 67,
+            "bottom": 14,
+            "confidence": 79.703957
+          },
+          {
+            "text": "panna",
+            "left": 274,
+            "top": 958,
+            "right": 41,
+            "bottom": 13,
+            "confidence": 74.830536
+          },
+          {
+            "text": "bakje",
+            "left": 268,
+            "top": 975,
+            "right": 35,
+            "bottom": 15,
+            "confidence": 96.876793
+          },
+          {
+            "text": "en",
+            "left": 316,
+            "top": 1015,
+            "right": 15,
+            "bottom": 9,
+            "confidence": 84.947395
+          },
+          {
+            "text": "wolf]",
+            "left": 276,
+            "top": 1164,
+            "right": 27,
+            "bottom": 11,
+            "confidence": 0.0
+          },
+          {
+            "text": "[10622551138]",
+            "left": 608,
+            "top": 1163,
+            "right": 118,
+            "bottom": 15,
+            "confidence": 79.598808
+          }
+        ],
+        "column_analysis": {
+          "column_1": {
+            "expected_words": [
+              "Appeltje:",
+              "10",
+              "appeltjes",
+              "frangipane/of",
+              "spijs",
+              "Suiker",
+              "Poedersuiker",
+              "Bladerdeeg",
+              "3",
+              "plakjes"
+            ],
+            "expected_count": 10,
+            "hit_count": 2,
+            "hit_rate": 0.2,
+            "hits": [
+              "suiker",
+              "spijs"
+            ]
+          },
+          "column_2": {
+            "expected_words": [
+              "Parfait:",
+              "5",
+              "eidooiers",
+              "en",
+              "2",
+              "eieren",
+              "100",
+              "gr",
+              "suiker",
+              "400",
+              "gr",
+              "room",
+              "6",
+              "speculaas"
+            ],
+            "expected_count": 13,
+            "hit_count": 4,
+            "hit_rate": 0.3076923076923077,
+            "hits": [
+              "suiker",
+              "eidooiers",
+              "en",
+              "gr"
+            ]
+          },
+          "column_3": {
+            "expected_words": [
+              "koekje:",
+              "3",
+              "plakje",
+              "bladerdeeg",
+              "Suiker",
+              "kaneel,",
+              "water"
+            ],
+            "expected_count": 7,
+            "hit_count": 1,
+            "hit_rate": 0.14285714285714285,
+            "hits": [
+              "suiker"
+            ]
+          }
+        }
+      },
+      "psm11": {
+        "words": [
+          {
+            "text": "chocolade",
+            "left": 364,
+            "top": 132,
+            "right": 89,
+            "bottom": 17,
+            "confidence": 96.199562
+          },
+          {
+            "text": "suiker",
+            "left": 455,
+            "top": 242,
+            "right": 40,
+            "bottom": 12,
+            "confidence": 89.444946
+          },
+          {
+            "text": "gr",
+            "left": 219,
+            "top": 344,
+            "right": 13,
+            "bottom": 13,
+            "confidence": 96.932869
+          },
+          {
+            "text": "dl",
+            "left": 211,
+            "top": 379,
+            "right": 11,
+            "bottom": 12,
+            "confidence": 48.048256
+          },
+          {
+            "text": "klein",
+            "left": 302,
+            "top": 531,
+            "right": 29,
+            "bottom": 11,
+            "confidence": 85.106323
+          },
+          {
+            "text": "Of",
+            "left": 473,
+            "top": 526,
+            "right": 8,
+            "bottom": 8,
+            "confidence": 72.665314
+          },
+          {
+            "text": "afbakken",
+            "left": 308,
+            "top": 547,
+            "right": 60,
+            "bottom": 13,
+            "confidence": 94.901985
+          },
+          {
+            "text": "a",
+            "left": 273,
+            "top": 607,
+            "right": 8,
+            "bottom": 9,
+            "confidence": 48.673508
+          },
+          {
+            "text": "met",
+            "left": 419,
+            "top": 597,
+            "right": 24,
+            "bottom": 13,
+            "confidence": 90.085991
+          },
+          {
+            "text": "losroeren.",
+            "left": 313,
+            "top": 622,
+            "right": 62,
+            "bottom": 11,
+            "confidence": 89.154289
+          },
+          {
+            "text": "gieten.",
+            "left": 361,
+            "top": 638,
+            "right": 44,
+            "bottom": 15,
+            "confidence": 92.894302
+          },
+          {
+            "text": "binden",
+            "left": 443,
+            "top": 652,
+            "right": 44,
+            "bottom": 13,
+            "confidence": 57.968861
+          },
+          {
+            "text": "al",
+            "left": 261,
+            "top": 664,
+            "right": 8,
+            "bottom": 9,
+            "confidence": 92.471306
+          },
+          {
+            "text": "gi",
+            "left": 271,
+            "top": 682,
+            "right": 8,
+            "bottom": 12,
+            "confidence": 81.470215
+          },
+          {
+            "text": "losroel",
+            "left": 269,
+            "top": 771,
+            "right": 41,
+            "bottom": 12,
+            "confidence": 55.036621
+          },
+          {
+            "text": "frangipane",
+            "left": 309,
+            "top": 806,
+            "right": 71,
+            "bottom": 15,
+            "confidence": 89.009666
+          },
+          {
+            "text": "vanil",
+            "left": 297,
+            "top": 865,
+            "right": 27,
+            "bottom": 9,
+            "confidence": 88.797371
+          },
+          {
+            "text": "geweekte",
+            "left": 452,
+            "top": 854,
+            "right": 64,
+            "bottom": 17,
+            "confidence": 90.843178
+          },
+          {
+            "text": "schen",
+            "left": 285,
+            "top": 882,
+            "right": 39,
+            "bottom": 12,
+            "confidence": 28.570923
+          },
+          {
+            "text": "druppels.",
+            "left": 470,
+            "top": 872,
+            "right": 67,
+            "bottom": 16,
+            "confidence": 28.650459
+          },
+          {
+            "text": "en",
+            "left": 345,
+            "top": 901,
+            "right": 16,
+            "bottom": 9,
+            "confidence": 90.637772
+          },
+          {
+            "text": "cotta",
+            "left": 320,
+            "top": 955,
+            "right": 32,
+            "bottom": 12,
+            "confidence": 74.616226
+          },
+          {
+            "text": "bakje",
+            "left": 268,
+            "top": 975,
+            "right": 35,
+            "bottom": 15,
+            "confidence": 96.876793
+          },
+          {
+            "text": "en",
+            "left": 316,
+            "top": 1015,
+            "right": 15,
+            "bottom": 9,
+            "confidence": 93.365829
+          },
+          {
+            "text": "11",
+            "left": 686,
+            "top": 1164,
+            "right": 10,
+            "bottom": 10,
+            "confidence": 89.7948
+          }
+        ],
+        "column_analysis": {
+          "column_1": {
+            "expected_words": [
+              "Appeltje:",
+              "10",
+              "appeltjes",
+              "frangipane/of",
+              "spijs",
+              "Suiker",
+              "Poedersuiker",
+              "Bladerdeeg",
+              "3",
+              "plakjes"
+            ],
+            "expected_count": 10,
+            "hit_count": 1,
+            "hit_rate": 0.1,
+            "hits": [
+              "suiker"
+            ]
+          },
+          "column_2": {
+            "expected_words": [
+              "Parfait:",
+              "5",
+              "eidooiers",
+              "en",
+              "2",
+              "eieren",
+              "100",
+              "gr",
+              "suiker",
+              "400",
+              "gr",
+              "room",
+              "6",
+              "speculaas"
+            ],
+            "expected_count": 13,
+            "hit_count": 3,
+            "hit_rate": 0.23076923076923078,
+            "hits": [
+              "suiker",
+              "en",
+              "gr"
+            ]
+          },
+          "column_3": {
+            "expected_words": [
+              "koekje:",
+              "3",
+              "plakje",
+              "bladerdeeg",
+              "Suiker",
+              "kaneel,",
+              "water"
+            ],
+            "expected_count": 7,
+            "hit_count": 1,
+            "hit_rate": 0.14285714285714285,
+            "hits": [
+              "suiker"
+            ]
+          }
+        }
+      },
+      "psm12": {
+        "words": [
+          {
+            "text": "chocolade",
+            "left": 364,
+            "top": 132,
+            "right": 89,
+            "bottom": 17,
+            "confidence": 96.199562
+          },
+          {
+            "text": "suiker",
+            "left": 455,
+            "top": 242,
+            "right": 40,
+            "bottom": 12,
+            "confidence": 89.444946
+          },
+          {
+            "text": "gr",
+            "left": 219,
+            "top": 344,
+            "right": 13,
+            "bottom": 13,
+            "confidence": 96.932869
+          },
+          {
+            "text": "dl",
+            "left": 211,
+            "top": 379,
+            "right": 11,
+            "bottom": 12,
+            "confidence": 48.048256
+          },
+          {
+            "text": "klein",
+            "left": 302,
+            "top": 531,
+            "right": 29,
+            "bottom": 11,
+            "confidence": 85.106323
+          },
+          {
+            "text": "Of",
+            "left": 473,
+            "top": 526,
+            "right": 8,
+            "bottom": 8,
+            "confidence": 72.665314
+          },
+          {
+            "text": "afbakken",
+            "left": 308,
+            "top": 547,
+            "right": 60,
+            "bottom": 13,
+            "confidence": 94.901985
+          },
+          {
+            "text": "a",
+            "left": 273,
+            "top": 607,
+            "right": 8,
+            "bottom": 9,
+            "confidence": 48.673508
+          },
+          {
+            "text": "met",
+            "left": 419,
+            "top": 597,
+            "right": 24,
+            "bottom": 13,
+            "confidence": 90.085991
+          },
+          {
+            "text": "losroeren.",
+            "left": 313,
+            "top": 622,
+            "right": 62,
+            "bottom": 11,
+            "confidence": 89.154289
+          },
+          {
+            "text": "gieten.",
+            "left": 361,
+            "top": 638,
+            "right": 44,
+            "bottom": 15,
+            "confidence": 92.894302
+          },
+          {
+            "text": "binden",
+            "left": 443,
+            "top": 652,
+            "right": 44,
+            "bottom": 13,
+            "confidence": 57.968861
+          },
+          {
+            "text": "al",
+            "left": 261,
+            "top": 664,
+            "right": 8,
+            "bottom": 9,
+            "confidence": 92.471306
+          },
+          {
+            "text": "gi",
+            "left": 271,
+            "top": 682,
+            "right": 8,
+            "bottom": 12,
+            "confidence": 81.470215
+          },
+          {
+            "text": "losroel",
+            "left": 269,
+            "top": 771,
+            "right": 41,
+            "bottom": 12,
+            "confidence": 55.036621
+          },
+          {
+            "text": "frangipane",
+            "left": 309,
+            "top": 806,
+            "right": 71,
+            "bottom": 15,
+            "confidence": 89.009666
+          },
+          {
+            "text": "vanil",
+            "left": 297,
+            "top": 865,
+            "right": 27,
+            "bottom": 9,
+            "confidence": 88.797371
+          },
+          {
+            "text": "geweekte",
+            "left": 452,
+            "top": 854,
+            "right": 64,
+            "bottom": 17,
+            "confidence": 90.843178
+          },
+          {
+            "text": "schen",
+            "left": 285,
+            "top": 882,
+            "right": 39,
+            "bottom": 12,
+            "confidence": 28.570923
+          },
+          {
+            "text": "druppels.",
+            "left": 470,
+            "top": 872,
+            "right": 67,
+            "bottom": 16,
+            "confidence": 28.650459
+          },
+          {
+            "text": "en",
+            "left": 345,
+            "top": 901,
+            "right": 16,
+            "bottom": 9,
+            "confidence": 90.637772
+          },
+          {
+            "text": "cotta",
+            "left": 320,
+            "top": 955,
+            "right": 32,
+            "bottom": 12,
+            "confidence": 74.616226
+          },
+          {
+            "text": "bakje",
+            "left": 268,
+            "top": 975,
+            "right": 35,
+            "bottom": 15,
+            "confidence": 94.970993
+          },
+          {
+            "text": "en",
+            "left": 316,
+            "top": 1015,
+            "right": 15,
+            "bottom": 9,
+            "confidence": 93.365829
+          },
+          {
+            "text": "11",
+            "left": 686,
+            "top": 1164,
+            "right": 10,
+            "bottom": 10,
+            "confidence": 89.7948
+          }
+        ],
+        "column_analysis": {
+          "column_1": {
+            "expected_words": [
+              "Appeltje:",
+              "10",
+              "appeltjes",
+              "frangipane/of",
+              "spijs",
+              "Suiker",
+              "Poedersuiker",
+              "Bladerdeeg",
+              "3",
+              "plakjes"
+            ],
+            "expected_count": 10,
+            "hit_count": 1,
+            "hit_rate": 0.1,
+            "hits": [
+              "suiker"
+            ]
+          },
+          "column_2": {
+            "expected_words": [
+              "Parfait:",
+              "5",
+              "eidooiers",
+              "en",
+              "2",
+              "eieren",
+              "100",
+              "gr",
+              "suiker",
+              "400",
+              "gr",
+              "room",
+              "6",
+              "speculaas"
+            ],
+            "expected_count": 13,
+            "hit_count": 3,
+            "hit_rate": 0.23076923076923078,
+            "hits": [
+              "suiker",
+              "en",
+              "gr"
+            ]
+          },
+          "column_3": {
+            "expected_words": [
+              "koekje:",
+              "3",
+              "plakje",
+              "bladerdeeg",
+              "Suiker",
+              "kaneel,",
+              "water"
+            ],
+            "expected_count": 7,
+            "hit_count": 1,
+            "hit_rate": 0.14285714285714285,
+            "hits": [
+              "suiker"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "page-4": {
+    "page": "page-4",
+    "expected": {
+      "column_1": [
+        "Hertenhaas filet:",
+        "2 filets",
+        "peper, zout, olijfolie"
+      ],
+      "column_2": [
+        "Groenten:",
+        "3 peren/ amandel schaafsel",
+        "250 gr paddenstoelen/3 sjalot",
+        "5 pp gr spruiten/ spekje",
+        "250 gr orzo 1/4 bieslook"
+      ],
+      "column_3": [
+        "Saus :",
+        "6 dl fond 2 dl rode wijn",
+        "2 sjalotjes 100 gr boter",
+        "Wild kruid"
+      ]
+    },
+    "psm_results": {
+      "psm6": {
+        "words": [
+          {
+            "text": "en",
+            "left": 510,
+            "top": 227,
+            "right": 20,
+            "bottom": 12,
+            "confidence": 96.347214
+          },
+          {
+            "text": "personen",
+            "left": 476,
+            "top": 255,
+            "right": 74,
+            "bottom": 30,
+            "confidence": 76.131775
+          },
+          {
+            "text": "Saus.",
+            "left": 555,
+            "top": 273,
+            "right": 38,
+            "bottom": 28,
+            "confidence": 69.419144
+          },
+          {
+            "text": "1",
+            "left": 397,
+            "top": 305,
+            "right": 4,
+            "bottom": 11,
+            "confidence": 90.88887
+          },
+          {
+            "text": "bospeen",
+            "left": 317,
+            "top": 315,
+            "right": 58,
+            "bottom": 31,
+            "confidence": 96.300407
+          },
+          {
+            "text": "kriel",
+            "left": 435,
+            "top": 339,
+            "right": 27,
+            "bottom": 13,
+            "confidence": 88.579132
+          },
+          {
+            "text": "dl",
+            "left": 384,
+            "top": 360,
+            "right": 11,
+            "bottom": 12,
+            "confidence": 77.958252
+          },
+          {
+            "text": "hiervan",
+            "left": 326,
+            "top": 491,
+            "right": 49,
+            "bottom": 11,
+            "confidence": 96.021072
+          },
+          {
+            "text": "ff",
+            "left": 285,
+            "top": 529,
+            "right": 9,
+            "bottom": 12,
+            "confidence": 93.035049
+          },
+          {
+            "text": "150",
+            "left": 259,
+            "top": 566,
+            "right": 24,
+            "bottom": 12,
+            "confidence": 96.929115
+          },
+          {
+            "text": "en",
+            "left": 299,
+            "top": 622,
+            "right": 16,
+            "bottom": 9,
+            "confidence": 96.080788
+          },
+          {
+            "text": "brunoise",
+            "left": 250,
+            "top": 640,
+            "right": 58,
+            "bottom": 12,
+            "confidence": 96.242928
+          },
+          {
+            "text": "in",
+            "left": 315,
+            "top": 659,
+            "right": 10,
+            "bottom": 9,
+            "confidence": 90.337173
+          },
+          {
+            "text": "kwarten",
+            "left": 251,
+            "top": 677,
+            "right": 52,
+            "bottom": 12,
+            "confidence": 94.883545
+          },
+          {
+            "text": "door",
+            "left": 392,
+            "top": 691,
+            "right": 31,
+            "bottom": 11,
+            "confidence": 91.569748
+          },
+          {
+            "text": "sjalot",
+            "left": 274,
+            "top": 714,
+            "right": 35,
+            "bottom": 15,
+            "confidence": 95.424507
+          },
+          {
+            "text": "de",
+            "left": 273,
+            "top": 733,
+            "right": 17,
+            "bottom": 12,
+            "confidence": 96.988998
+          },
+          {
+            "text": "bij",
+            "left": 293,
+            "top": 751,
+            "right": 13,
+            "bottom": 15,
+            "confidence": 95.666824
+          },
+          {
+            "text": "vocht",
+            "left": 274,
+            "top": 770,
+            "right": 36,
+            "bottom": 13,
+            "confidence": 92.669739
+          },
+          {
+            "text": "gesneden",
+            "left": 324,
+            "top": 786,
+            "right": 66,
+            "bottom": 17,
+            "confidence": 94.126793
+          },
+          {
+            "text": "met",
+            "left": 267,
+            "top": 826,
+            "right": 28,
+            "bottom": 12,
+            "confidence": 96.771126
+          },
+          {
+            "text": "wijn",
+            "left": 309,
+            "top": 862,
+            "right": 26,
+            "bottom": 15,
+            "confidence": 89.805443
+          },
+          {
+            "text": "net",
+            "left": 222,
+            "top": 885,
+            "right": 20,
+            "bottom": 12,
+            "confidence": 95.890854
+          },
+          {
+            "text": "oven",
+            "left": 262,
+            "top": 959,
+            "right": 32,
+            "bottom": 10,
+            "confidence": 93.744644
+          },
+          {
+            "text": "borden",
+            "left": 331,
+            "top": 992,
+            "right": 46,
+            "bottom": 12,
+            "confidence": 96.602638
+          },
+          {
+            "text": "hier",
+            "left": 312,
+            "top": 1012,
+            "right": 25,
+            "bottom": 12,
+            "confidence": 96.057915
+          },
+          {
+            "text": "wim",
+            "left": 250,
+            "top": 1169,
+            "right": 22,
+            "bottom": 6,
+            "confidence": 56.448399
+          }
+        ],
+        "column_analysis": {
+          "column_1": {
+            "expected_words": [
+              "Hertenhaas",
+              "filet:",
+              "2",
+              "filets",
+              "peper,",
+              "zout,",
+              "olijfolie"
+            ],
+            "expected_count": 7,
+            "hit_count": 0,
+            "hit_rate": 0.0,
+            "hits": []
+          },
+          "column_2": {
+            "expected_words": [
+              "Groenten:",
+              "3",
+              "peren/",
+              "amandel",
+              "schaafsel",
+              "250",
+              "gr",
+              "paddenstoelen/3",
+              "sjalot",
+              "5",
+              "pp",
+              "gr",
+              "spruiten/",
+              "spekje",
+              "250",
+              "gr",
+              "orzo",
+              "1/4",
+              "bieslook"
+            ],
+            "expected_count": 16,
+            "hit_count": 1,
+            "hit_rate": 0.0625,
+            "hits": [
+              "sjalot"
+            ]
+          },
+          "column_3": {
+            "expected_words": [
+              "Saus",
+              ":",
+              "6",
+              "dl",
+              "fond",
+              "2",
+              "dl",
+              "rode",
+              "wijn",
+              "2",
+              "sjalotjes",
+              "100",
+              "gr",
+              "boter",
+              "Wild",
+              "kruid"
+            ],
+            "expected_count": 14,
+            "hit_count": 2,
+            "hit_rate": 0.14285714285714285,
+            "hits": [
+              "dl",
+              "wijn"
+            ]
+          }
+        }
+      },
+      "psm11": {
+        "words": [
+          {
+            "text": "en",
+            "left": 510,
+            "top": 227,
+            "right": 20,
+            "bottom": 12,
+            "confidence": 96.347214
+          },
+          {
+            "text": "rode",
+            "left": 650,
+            "top": 292,
+            "right": 30,
+            "bottom": 13,
+            "confidence": 78.885765
+          },
+          {
+            "text": "5",
+            "left": 488,
+            "top": 301,
+            "right": 7,
+            "bottom": 12,
+            "confidence": 94.43354
+          },
+          {
+            "text": "boter",
+            "left": 679,
+            "top": 309,
+            "right": 35,
+            "bottom": 12,
+            "confidence": 95.078644
+          },
+          {
+            "text": "aard",
+            "left": 468,
+            "top": 337,
+            "right": 29,
+            "bottom": 13,
+            "confidence": 89.721489
+          },
+          {
+            "text": "room",
+            "left": 401,
+            "top": 362,
+            "right": 33,
+            "bottom": 9,
+            "confidence": 96.350441
+          },
+          {
+            "text": "en",
+            "left": 586,
+            "top": 482,
+            "right": 16,
+            "bottom": 9,
+            "confidence": 96.608856
+          },
+          {
+            "text": "per",
+            "left": 344,
+            "top": 529,
+            "right": 21,
+            "bottom": 12,
+            "confidence": 96.373985
+          },
+          {
+            "text": "1",
+            "left": 259,
+            "top": 567,
+            "right": 5,
+            "bottom": 11,
+            "confidence": 90.331535
+          },
+          {
+            "text": "het",
+            "left": 439,
+            "top": 560,
+            "right": 20,
+            "bottom": 11,
+            "confidence": 96.759956
+          },
+          {
+            "text": "en",
+            "left": 299,
+            "top": 622,
+            "right": 16,
+            "bottom": 9,
+            "confidence": 91.479622
+          },
+          {
+            "text": "snijden.",
+            "left": 313,
+            "top": 637,
+            "right": 51,
+            "bottom": 14,
+            "confidence": 95.70359
+          },
+          {
+            "text": "snijden",
+            "left": 309,
+            "top": 674,
+            "right": 46,
+            "bottom": 16,
+            "confidence": 93.255142
+          },
+          {
+            "text": "door",
+            "left": 392,
+            "top": 691,
+            "right": 31,
+            "bottom": 11,
+            "confidence": 95.307701
+          },
+          {
+            "text": "tot",
+            "left": 314,
+            "top": 713,
+            "right": 16,
+            "bottom": 12,
+            "confidence": 94.023865
+          },
+          {
+            "text": "de",
+            "left": 273,
+            "top": 733,
+            "right": 17,
+            "bottom": 12,
+            "confidence": 96.967239
+          },
+          {
+            "text": "8",
+            "left": 543,
+            "top": 742,
+            "right": 7,
+            "bottom": 11,
+            "confidence": 94.379654
+          },
+          {
+            "text": "d",
+            "left": 312,
+            "top": 750,
+            "right": 7,
+            "bottom": 12,
+            "confidence": 87.645203
+          },
+          {
+            "text": "vocht",
+            "left": 274,
+            "top": 770,
+            "right": 36,
+            "bottom": 13,
+            "confidence": 96.444099
+          },
+          {
+            "text": "de",
+            "left": 477,
+            "top": 763,
+            "right": 16,
+            "bottom": 12,
+            "confidence": 94.319878
+          },
+          {
+            "text": "gesneden",
+            "left": 324,
+            "top": 786,
+            "right": 66,
+            "bottom": 17,
+            "confidence": 96.178848
+          },
+          {
+            "text": "met",
+            "left": 267,
+            "top": 826,
+            "right": 28,
+            "bottom": 12,
+            "confidence": 96.832108
+          },
+          {
+            "text": "tot",
+            "left": 442,
+            "top": 857,
+            "right": 17,
+            "bottom": 13,
+            "confidence": 94.125061
+          },
+          {
+            "text": "wi",
+            "left": 309,
+            "top": 865,
+            "right": 11,
+            "bottom": 9,
+            "confidence": 94.749077
+          },
+          {
+            "text": "het",
+            "left": 282,
+            "top": 883,
+            "right": 21,
+            "bottom": 12,
+            "confidence": 93.032661
+          },
+          {
+            "text": "voegen",
+            "left": 460,
+            "top": 877,
+            "right": 50,
+            "bottom": 13,
+            "confidence": 96.540092
+          },
+          {
+            "text": "zetten",
+            "left": 299,
+            "top": 956,
+            "right": 41,
+            "bottom": 12,
+            "confidence": 94.501526
+          },
+          {
+            "text": "oven",
+            "left": 629,
+            "top": 947,
+            "right": 33,
+            "bottom": 10,
+            "confidence": 92.713593
+          },
+          {
+            "text": "een",
+            "left": 462,
+            "top": 990,
+            "right": 25,
+            "bottom": 10,
+            "confidence": 88.770309
+          },
+          {
+            "text": "hier",
+            "left": 312,
+            "top": 1012,
+            "right": 25,
+            "bottom": 12,
+            "confidence": 96.716675
+          },
+          {
+            "text": "11",
+            "left": 688,
+            "top": 1167,
+            "right": 11,
+            "bottom": 10,
+            "confidence": 89.679169
+          }
+        ],
+        "column_analysis": {
+          "column_1": {
+            "expected_words": [
+              "Hertenhaas",
+              "filet:",
+              "2",
+              "filets",
+              "peper,",
+              "zout,",
+              "olijfolie"
+            ],
+            "expected_count": 7,
+            "hit_count": 0,
+            "hit_rate": 0.0,
+            "hits": []
+          },
+          "column_2": {
+            "expected_words": [
+              "Groenten:",
+              "3",
+              "peren/",
+              "amandel",
+              "schaafsel",
+              "250",
+              "gr",
+              "paddenstoelen/3",
+              "sjalot",
+              "5",
+              "pp",
+              "gr",
+              "spruiten/",
+              "spekje",
+              "250",
+              "gr",
+              "orzo",
+              "1/4",
+              "bieslook"
+            ],
+            "expected_count": 16,
+            "hit_count": 1,
+            "hit_rate": 0.0625,
+            "hits": [
+              "5"
+            ]
+          },
+          "column_3": {
+            "expected_words": [
+              "Saus",
+              ":",
+              "6",
+              "dl",
+              "fond",
+              "2",
+              "dl",
+              "rode",
+              "wijn",
+              "2",
+              "sjalotjes",
+              "100",
+              "gr",
+              "boter",
+              "Wild",
+              "kruid"
+            ],
+            "expected_count": 14,
+            "hit_count": 2,
+            "hit_rate": 0.14285714285714285,
+            "hits": [
+              "boter",
+              "rode"
+            ]
+          }
+        }
+      },
+      "psm12": {
+        "words": [
+          {
+            "text": "en",
+            "left": 510,
+            "top": 227,
+            "right": 20,
+            "bottom": 12,
+            "confidence": 96.347214
+          },
+          {
+            "text": "rode",
+            "left": 650,
+            "top": 292,
+            "right": 30,
+            "bottom": 13,
+            "confidence": 78.885765
+          },
+          {
+            "text": "5",
+            "left": 488,
+            "top": 301,
+            "right": 7,
+            "bottom": 12,
+            "confidence": 94.43354
+          },
+          {
+            "text": "boter",
+            "left": 679,
+            "top": 309,
+            "right": 35,
+            "bottom": 12,
+            "confidence": 95.078644
+          },
+          {
+            "text": "aard",
+            "left": 468,
+            "top": 337,
+            "right": 29,
+            "bottom": 13,
+            "confidence": 89.721489
+          },
+          {
+            "text": "room",
+            "left": 401,
+            "top": 362,
+            "right": 33,
+            "bottom": 9,
+            "confidence": 96.350441
+          },
+          {
+            "text": "en",
+            "left": 586,
+            "top": 482,
+            "right": 16,
+            "bottom": 9,
+            "confidence": 96.608856
+          },
+          {
+            "text": "per",
+            "left": 344,
+            "top": 529,
+            "right": 21,
+            "bottom": 12,
+            "confidence": 96.373985
+          },
+          {
+            "text": "1",
+            "left": 259,
+            "top": 567,
+            "right": 5,
+            "bottom": 11,
+            "confidence": 90.331535
+          },
+          {
+            "text": "het",
+            "left": 439,
+            "top": 560,
+            "right": 20,
+            "bottom": 11,
+            "confidence": 96.759956
+          },
+          {
+            "text": "en",
+            "left": 299,
+            "top": 622,
+            "right": 16,
+            "bottom": 9,
+            "confidence": 91.479622
+          },
+          {
+            "text": "snijden.",
+            "left": 313,
+            "top": 637,
+            "right": 51,
+            "bottom": 14,
+            "confidence": 95.70359
+          },
+          {
+            "text": "snijden",
+            "left": 309,
+            "top": 674,
+            "right": 46,
+            "bottom": 16,
+            "confidence": 93.255142
+          },
+          {
+            "text": "door",
+            "left": 392,
+            "top": 691,
+            "right": 31,
+            "bottom": 11,
+            "confidence": 95.307701
+          },
+          {
+            "text": "tot",
+            "left": 314,
+            "top": 713,
+            "right": 16,
+            "bottom": 12,
+            "confidence": 94.023865
+          },
+          {
+            "text": "de",
+            "left": 273,
+            "top": 733,
+            "right": 17,
+            "bottom": 12,
+            "confidence": 96.967239
+          },
+          {
+            "text": "8",
+            "left": 543,
+            "top": 742,
+            "right": 7,
+            "bottom": 11,
+            "confidence": 94.379654
+          },
+          {
+            "text": "d",
+            "left": 312,
+            "top": 750,
+            "right": 7,
+            "bottom": 12,
+            "confidence": 87.645203
+          },
+          {
+            "text": "vocht",
+            "left": 274,
+            "top": 770,
+            "right": 36,
+            "bottom": 13,
+            "confidence": 96.259659
+          },
+          {
+            "text": "de",
+            "left": 477,
+            "top": 763,
+            "right": 16,
+            "bottom": 12,
+            "confidence": 94.319878
+          },
+          {
+            "text": "gesneden",
+            "left": 324,
+            "top": 786,
+            "right": 66,
+            "bottom": 17,
+            "confidence": 96.178848
+          },
+          {
+            "text": "met",
+            "left": 267,
+            "top": 826,
+            "right": 28,
+            "bottom": 12,
+            "confidence": 96.832108
+          },
+          {
+            "text": "tot",
+            "left": 442,
+            "top": 857,
+            "right": 17,
+            "bottom": 13,
+            "confidence": 94.125061
+          },
+          {
+            "text": "wi",
+            "left": 309,
+            "top": 865,
+            "right": 11,
+            "bottom": 9,
+            "confidence": 94.749077
+          },
+          {
+            "text": "het",
+            "left": 282,
+            "top": 883,
+            "right": 21,
+            "bottom": 12,
+            "confidence": 93.032661
+          },
+          {
+            "text": "voegen",
+            "left": 460,
+            "top": 877,
+            "right": 50,
+            "bottom": 13,
+            "confidence": 96.540092
+          },
+          {
+            "text": "zetten",
+            "left": 299,
+            "top": 956,
+            "right": 41,
+            "bottom": 12,
+            "confidence": 94.501526
+          },
+          {
+            "text": "oven",
+            "left": 629,
+            "top": 947,
+            "right": 33,
+            "bottom": 10,
+            "confidence": 92.713593
+          },
+          {
+            "text": "een",
+            "left": 462,
+            "top": 990,
+            "right": 25,
+            "bottom": 10,
+            "confidence": 88.770309
+          },
+          {
+            "text": "hier",
+            "left": 312,
+            "top": 1012,
+            "right": 25,
+            "bottom": 12,
+            "confidence": 96.716675
+          },
+          {
+            "text": "11",
+            "left": 688,
+            "top": 1167,
+            "right": 11,
+            "bottom": 10,
+            "confidence": 89.679169
+          }
+        ],
+        "column_analysis": {
+          "column_1": {
+            "expected_words": [
+              "Hertenhaas",
+              "filet:",
+              "2",
+              "filets",
+              "peper,",
+              "zout,",
+              "olijfolie"
+            ],
+            "expected_count": 7,
+            "hit_count": 0,
+            "hit_rate": 0.0,
+            "hits": []
+          },
+          "column_2": {
+            "expected_words": [
+              "Groenten:",
+              "3",
+              "peren/",
+              "amandel",
+              "schaafsel",
+              "250",
+              "gr",
+              "paddenstoelen/3",
+              "sjalot",
+              "5",
+              "pp",
+              "gr",
+              "spruiten/",
+              "spekje",
+              "250",
+              "gr",
+              "orzo",
+              "1/4",
+              "bieslook"
+            ],
+            "expected_count": 16,
+            "hit_count": 1,
+            "hit_rate": 0.0625,
+            "hits": [
+              "5"
+            ]
+          },
+          "column_3": {
+            "expected_words": [
+              "Saus",
+              ":",
+              "6",
+              "dl",
+              "fond",
+              "2",
+              "dl",
+              "rode",
+              "wijn",
+              "2",
+              "sjalotjes",
+              "100",
+              "gr",
+              "boter",
+              "Wild",
+              "kruid"
+            ],
+            "expected_count": 14,
+            "hit_count": 2,
+            "hit_rate": 0.14285714285714285,
+            "hits": [
+              "boter",
+              "rode"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "page-3": {
+    "page": "page-3",
+    "expected": {
+      "column_1": [
+        "Patrijs met rode pootjes:",
+        "5 x patrijs",
+        "Peper, zout",
+        "Fond 2 bakjes, 1 bakje water"
+      ],
+      "column_2": [
+        "Garnituur:",
+        "Witlof 8/10 stronkjes",
+        "Peper, zout, honing",
+        "4 aardappels",
+        "3 witte uien, 2 dl rode wijn",
+        "azijn, 2/4 lepels suiker"
+      ],
+      "column_3": [
+        "Ananas saus:",
+        "2 bakjes fond 1/4 ananas",
+        "Peper, zout"
+      ]
+    },
+    "psm_results": {
+      "psm6": {
+        "words": [
+          {
+            "text": "10",
+            "left": 440,
+            "top": 200,
+            "right": 16,
+            "bottom": 13,
+            "confidence": 92.011299
+          },
+          {
+            "text": "|",
+            "left": 322,
+            "top": 233,
+            "right": 9,
+            "bottom": 33,
+            "confidence": 88.319221
+          },
+          {
+            "text": "tzaksoinazie",
+            "left": 339,
+            "top": 260,
+            "right": 96,
+            "bottom": 14,
+            "confidence": 0.0
+          },
+          {
+            "text": "Peper",
+            "left": 523,
+            "top": 273,
+            "right": 41,
+            "bottom": 12,
+            "confidence": 85.069061
+          },
+          {
+            "text": "sjalot",
+            "left": 536,
+            "top": 326,
+            "right": 35,
+            "bottom": 13,
+            "confidence": 74.825119
+          },
+          {
+            "text": "gr",
+            "left": 554,
+            "top": 347,
+            "right": 4,
+            "bottom": 9,
+            "confidence": 61.688217
+          },
+          {
+            "text": "azijn",
+            "left": 601,
+            "top": 361,
+            "right": 31,
+            "bottom": 10,
+            "confidence": 95.975769
+          },
+          {
+            "text": "peperen",
+            "left": 352,
+            "top": 555,
+            "right": 54,
+            "bottom": 14,
+            "confidence": 91.079788
+          },
+          {
+            "text": "schaal",
+            "left": 247,
+            "top": 594,
+            "right": 44,
+            "bottom": 13,
+            "confidence": 96.643944
+          },
+          {
+            "text": "tomaten",
+            "left": 294,
+            "top": 611,
+            "right": 54,
+            "bottom": 13,
+            "confidence": 92.359512
+          },
+          {
+            "text": "7",
+            "left": 305,
+            "top": 630,
+            "right": 7,
+            "bottom": 12,
+            "confidence": 89.217094
+          },
+          {
+            "text": "ole",
+            "left": 332,
+            "top": 701,
+            "right": 23,
+            "bottom": 12,
+            "confidence": 83.494247
+          },
+          {
+            "text": "peper,",
+            "left": 312,
+            "top": 723,
+            "right": 42,
+            "bottom": 13,
+            "confidence": 92.065407
+          },
+          {
+            "text": "en",
+            "left": 324,
+            "top": 742,
+            "right": 16,
+            "bottom": 9,
+            "confidence": 96.586723
+          },
+          {
+            "text": "hierin",
+            "left": 341,
+            "top": 758,
+            "right": 35,
+            "bottom": 11,
+            "confidence": 92.552094
+          },
+          {
+            "text": "portie",
+            "left": 311,
+            "top": 796,
+            "right": 37,
+            "bottom": 15,
+            "confidence": 96.003334
+          },
+          {
+            "text": "oven",
+            "left": 293,
+            "top": 818,
+            "right": 32,
+            "bottom": 10,
+            "confidence": 93.740189
+          },
+          {
+            "text": "aanfruiten",
+            "left": 283,
+            "top": 871,
+            "right": 67,
+            "bottom": 13,
+            "confidence": 82.808372
+          },
+          {
+            "text": "gazpacho",
+            "left": 268,
+            "top": 890,
+            "right": 66,
+            "bottom": 17,
+            "confidence": 90.61235
+          },
+          {
+            "text": "een",
+            "left": 318,
+            "top": 911,
+            "right": 24,
+            "bottom": 10,
+            "confidence": 93.804985
+          },
+          {
+            "text": "bord",
+            "left": 269,
+            "top": 1004,
+            "right": 29,
+            "bottom": 13,
+            "confidence": 94.303741
+          },
+          {
+            "text": "olijfolie.",
+            "left": 325,
+            "top": 1021,
+            "right": 46,
+            "bottom": 15,
+            "confidence": 89.869003
+          },
+          {
+            "text": "smakelijk",
+            "left": 273,
+            "top": 1060,
+            "right": 62,
+            "bottom": 15,
+            "confidence": 80.029083
+          },
+          {
+            "text": "wolfs]",
+            "left": 279,
+            "top": 1165,
+            "right": 27,
+            "bottom": 11,
+            "confidence": 24.691864
+          },
+          {
+            "text": "[10622551138]",
+            "left": 616,
+            "top": 1163,
+            "right": 120,
+            "bottom": 16,
+            "confidence": 47.456642
+          }
+        ],
+        "column_analysis": {
+          "column_1": {
+            "expected_words": [
+              "Patrijs",
+              "met",
+              "rode",
+              "pootjes:",
+              "5",
+              "x",
+              "patrijs",
+              "Peper,",
+              "zout",
+              "Fond",
+              "2",
+              "bakjes,",
+              "1",
+              "bakje",
+              "water"
+            ],
+            "expected_count": 14,
+            "hit_count": 1,
+            "hit_rate": 0.07142857142857142,
+            "hits": [
+              "peper,"
+            ]
+          },
+          "column_2": {
+            "expected_words": [
+              "Garnituur:",
+              "Witlof",
+              "8/10",
+              "stronkjes",
+              "Peper,",
+              "zout,",
+              "honing",
+              "4",
+              "aardappels",
+              "3",
+              "witte",
+              "uien,",
+              "2",
+              "dl",
+              "rode",
+              "wijn",
+              "azijn,",
+              "2/4",
+              "lepels",
+              "suiker"
+            ],
+            "expected_count": 20,
+            "hit_count": 1,
+            "hit_rate": 0.05,
+            "hits": [
+              "peper,"
+            ]
+          },
+          "column_3": {
+            "expected_words": [
+              "Ananas",
+              "saus:",
+              "2",
+              "bakjes",
+              "fond",
+              "1/4",
+              "ananas",
+              "Peper,",
+              "zout"
+            ],
+            "expected_count": 8,
+            "hit_count": 1,
+            "hit_rate": 0.125,
+            "hits": [
+              "peper,"
+            ]
+          }
+        }
+      },
+      "psm11": {
+        "words": [
+          {
+            "text": "spinazie",
+            "left": 523,
+            "top": 164,
+            "right": 71,
+            "bottom": 20,
+            "confidence": 96.924126
+          },
+          {
+            "text": "vel",
+            "left": 287,
+            "top": 243,
+            "right": 19,
+            "bottom": 12,
+            "confidence": 96.902443
+          },
+          {
+            "text": "|",
+            "left": 738,
+            "top": 271,
+            "right": 1,
+            "bottom": 40,
+            "confidence": 88.392593
+          },
+          {
+            "text": "gazpache",
+            "left": 609,
+            "top": 320,
+            "right": 65,
+            "bottom": 23,
+            "confidence": 44.176338
+          },
+          {
+            "text": "insmeren",
+            "left": 504,
+            "top": 547,
+            "right": 61,
+            "bottom": 12,
+            "confidence": 94.126244
+          },
+          {
+            "text": "pel",
+            "left": 352,
+            "top": 557,
+            "right": 16,
+            "bottom": 12,
+            "confidence": 50.653519
+          },
+          {
+            "text": "t",
+            "left": 294,
+            "top": 613,
+            "right": 4,
+            "bottom": 11,
+            "confidence": 86.014542
+          },
+          {
+            "text": "graden",
+            "left": 397,
+            "top": 625,
+            "right": 46,
+            "bottom": 16,
+            "confidence": 96.953369
+          },
+          {
+            "text": "met",
+            "left": 443,
+            "top": 696,
+            "right": 25,
+            "bottom": 12,
+            "confidence": 96.169746
+          },
+          {
+            "text": "van",
+            "left": 463,
+            "top": 717,
+            "right": 24,
+            "bottom": 9,
+            "confidence": 94.717468
+          },
+          {
+            "text": "de",
+            "left": 382,
+            "top": 756,
+            "right": 16,
+            "bottom": 12,
+            "confidence": 96.893295
+          },
+          {
+            "text": "uitscheppen",
+            "left": 596,
+            "top": 746,
+            "right": 84,
+            "bottom": 14,
+            "confidence": 67.061203
+          },
+          {
+            "text": "plastic",
+            "left": 474,
+            "top": 789,
+            "right": 43,
+            "bottom": 15,
+            "confidence": 95.870667
+          },
+          {
+            "text": "oven",
+            "left": 293,
+            "top": 818,
+            "right": 32,
+            "bottom": 10,
+            "confidence": 95.153519
+          },
+          {
+            "text": "olijf",
+            "left": 420,
+            "top": 865,
+            "right": 23,
+            "bottom": 16,
+            "confidence": 57.80175
+          },
+          {
+            "text": "een",
+            "left": 318,
+            "top": 911,
+            "right": 24,
+            "bottom": 10,
+            "confidence": 92.753014
+          },
+          {
+            "text": "en",
+            "left": 517,
+            "top": 999,
+            "right": 16,
+            "bottom": 9,
+            "confidence": 94.23024
+          },
+          {
+            "text": "hierop",
+            "left": 304,
+            "top": 1004,
+            "right": 42,
+            "bottom": 14,
+            "confidence": 94.928314
+          },
+          {
+            "text": "olijfolie",
+            "left": 325,
+            "top": 1021,
+            "right": 46,
+            "bottom": 15,
+            "confidence": 83.332581
+          },
+          {
+            "text": "38]",
+            "left": 715,
+            "top": 1154,
+            "right": 24,
+            "bottom": 31,
+            "confidence": 80.086868
+          }
+        ],
+        "column_analysis": {
+          "column_1": {
+            "expected_words": [
+              "Patrijs",
+              "met",
+              "rode",
+              "pootjes:",
+              "5",
+              "x",
+              "patrijs",
+              "Peper,",
+              "zout",
+              "Fond",
+              "2",
+              "bakjes,",
+              "1",
+              "bakje",
+              "water"
+            ],
+            "expected_count": 14,
+            "hit_count": 1,
+            "hit_rate": 0.07142857142857142,
+            "hits": [
+              "met"
+            ]
+          },
+          "column_2": {
+            "expected_words": [
+              "Garnituur:",
+              "Witlof",
+              "8/10",
+              "stronkjes",
+              "Peper,",
+              "zout,",
+              "honing",
+              "4",
+              "aardappels",
+              "3",
+              "witte",
+              "uien,",
+              "2",
+              "dl",
+              "rode",
+              "wijn",
+              "azijn,",
+              "2/4",
+              "lepels",
+              "suiker"
+            ],
+            "expected_count": 20,
+            "hit_count": 0,
+            "hit_rate": 0.0,
+            "hits": []
+          },
+          "column_3": {
+            "expected_words": [
+              "Ananas",
+              "saus:",
+              "2",
+              "bakjes",
+              "fond",
+              "1/4",
+              "ananas",
+              "Peper,",
+              "zout"
+            ],
+            "expected_count": 8,
+            "hit_count": 0,
+            "hit_rate": 0.0,
+            "hits": []
+          }
+        }
+      },
+      "psm12": {
+        "words": [
+          {
+            "text": "spinazie",
+            "left": 523,
+            "top": 164,
+            "right": 71,
+            "bottom": 20,
+            "confidence": 96.924126
+          },
+          {
+            "text": "vel",
+            "left": 287,
+            "top": 243,
+            "right": 19,
+            "bottom": 12,
+            "confidence": 96.902443
+          },
+          {
+            "text": "|",
+            "left": 738,
+            "top": 271,
+            "right": 1,
+            "bottom": 40,
+            "confidence": 88.392593
+          },
+          {
+            "text": "gazpache",
+            "left": 609,
+            "top": 320,
+            "right": 65,
+            "bottom": 23,
+            "confidence": 44.176338
+          },
+          {
+            "text": "insmeren",
+            "left": 504,
+            "top": 547,
+            "right": 61,
+            "bottom": 12,
+            "confidence": 94.126244
+          },
+          {
+            "text": "pel",
+            "left": 352,
+            "top": 557,
+            "right": 16,
+            "bottom": 12,
+            "confidence": 50.653519
+          },
+          {
+            "text": "t",
+            "left": 294,
+            "top": 613,
+            "right": 4,
+            "bottom": 11,
+            "confidence": 86.014542
+          },
+          {
+            "text": "graden",
+            "left": 397,
+            "top": 625,
+            "right": 46,
+            "bottom": 16,
+            "confidence": 96.953369
+          },
+          {
+            "text": "met",
+            "left": 443,
+            "top": 696,
+            "right": 25,
+            "bottom": 12,
+            "confidence": 96.169746
+          },
+          {
+            "text": "van",
+            "left": 463,
+            "top": 717,
+            "right": 24,
+            "bottom": 9,
+            "confidence": 94.717468
+          },
+          {
+            "text": "de",
+            "left": 382,
+            "top": 756,
+            "right": 16,
+            "bottom": 12,
+            "confidence": 96.893295
+          },
+          {
+            "text": "uitscheppen",
+            "left": 596,
+            "top": 746,
+            "right": 84,
+            "bottom": 14,
+            "confidence": 67.061203
+          },
+          {
+            "text": "plastic",
+            "left": 474,
+            "top": 789,
+            "right": 43,
+            "bottom": 15,
+            "confidence": 95.870667
+          },
+          {
+            "text": "oven",
+            "left": 293,
+            "top": 818,
+            "right": 32,
+            "bottom": 10,
+            "confidence": 95.153519
+          },
+          {
+            "text": "olijf",
+            "left": 420,
+            "top": 865,
+            "right": 23,
+            "bottom": 16,
+            "confidence": 57.80175
+          },
+          {
+            "text": "een",
+            "left": 318,
+            "top": 911,
+            "right": 24,
+            "bottom": 10,
+            "confidence": 92.753014
+          },
+          {
+            "text": "en",
+            "left": 517,
+            "top": 999,
+            "right": 16,
+            "bottom": 9,
+            "confidence": 94.23024
+          },
+          {
+            "text": "hierop",
+            "left": 304,
+            "top": 1004,
+            "right": 42,
+            "bottom": 14,
+            "confidence": 94.928314
+          },
+          {
+            "text": "olijfolie",
+            "left": 325,
+            "top": 1021,
+            "right": 46,
+            "bottom": 15,
+            "confidence": 83.332581
+          },
+          {
+            "text": "38]",
+            "left": 715,
+            "top": 1154,
+            "right": 24,
+            "bottom": 31,
+            "confidence": 80.086868
+          }
+        ],
+        "column_analysis": {
+          "column_1": {
+            "expected_words": [
+              "Patrijs",
+              "met",
+              "rode",
+              "pootjes:",
+              "5",
+              "x",
+              "patrijs",
+              "Peper,",
+              "zout",
+              "Fond",
+              "2",
+              "bakjes,",
+              "1",
+              "bakje",
+              "water"
+            ],
+            "expected_count": 14,
+            "hit_count": 1,
+            "hit_rate": 0.07142857142857142,
+            "hits": [
+              "met"
+            ]
+          },
+          "column_2": {
+            "expected_words": [
+              "Garnituur:",
+              "Witlof",
+              "8/10",
+              "stronkjes",
+              "Peper,",
+              "zout,",
+              "honing",
+              "4",
+              "aardappels",
+              "3",
+              "witte",
+              "uien,",
+              "2",
+              "dl",
+              "rode",
+              "wijn",
+              "azijn,",
+              "2/4",
+              "lepels",
+              "suiker"
+            ],
+            "expected_count": 20,
+            "hit_count": 0,
+            "hit_rate": 0.0,
+            "hits": []
+          },
+          "column_3": {
+            "expected_words": [
+              "Ananas",
+              "saus:",
+              "2",
+              "bakjes",
+              "fond",
+              "1/4",
+              "ananas",
+              "Peper,",
+              "zout"
+            ],
+            "expected_count": 8,
+            "hit_count": 0,
+            "hit_rate": 0.0,
+            "hits": []
+          }
+        }
+      }
+    }
+  }
+}
