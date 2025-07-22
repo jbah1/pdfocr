@@ -9,11 +9,10 @@ FastAPI backend for PDF Menu OCR to Markdown MVP
 from fastapi import FastAPI, File, UploadFile, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
-import fitz  # PyMuPDF
 import pytesseract
-from PIL import Image
-import io
+import tempfile
 import os
+from pdf_processor import process_pdf_to_markdown
 
 app = FastAPI(title="PDF Menu OCR to Markdown API", description="MVP for PDF to Markdown conversion with OCR", version="0.1.0")
 
@@ -33,17 +32,20 @@ async def upload_pdf(file: UploadFile = File(...)):
     if file.size and file.size > 50 * 1024 * 1024:
         raise HTTPException(status_code=400, detail="File too large (max 50MB).")
     try:
-        pdf_bytes = await file.read()
-        doc = fitz.open(stream=pdf_bytes, filetype="pdf")
-        markdown_pages = []
-        for page_num in range(len(doc)):
-            page = doc.load_page(page_num)
-            pix = page.get_pixmap()
-            img_bytes = pix.tobytes("png")
-            image = Image.open(io.BytesIO(img_bytes))
-            text = pytesseract.image_to_string(image)
-            markdown_pages.append(f"# Page {page_num+1}\n\n{text}\n")
-        markdown = "\n---\n".join(markdown_pages)
+        # Create a temporary file to store the uploaded PDF
+        with tempfile.NamedTemporaryFile(delete=False, suffix='.pdf') as temp_pdf:
+            temp_pdf.write(await file.read())
+            temp_pdf_path = temp_pdf.name
+
+        # Process PDF using Tesseract-based solution
+        markdown = process_pdf_to_markdown(temp_pdf_path)
+
+        # Clean up temporary file
+        try:
+            os.remove(temp_pdf_path)
+        except:
+            pass
+
         return {"markdown": markdown}
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Failed to process PDF: {str(e)}")

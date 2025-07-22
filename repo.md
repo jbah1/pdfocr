@@ -55,7 +55,7 @@ pdfocr/
 ### Sample PDF
 
 A sample menu PDF is included in the `docs/` directory for testing:
-- `Wimpies-recept-kwartel--witlof--druif.pdf`
+- `2023-10 kwartel, kabeljauw, kalf, bananenrol.pdf`
 
 ## Development Roadmap
 

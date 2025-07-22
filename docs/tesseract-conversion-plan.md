@@ -114,6 +114,88 @@ Dressing:
 zonnebloem olie, peper, zout
 ```
 
+For page-.3png analysis, the desired output should be:
+
+```
+November 2023
+Tussengerecht
+rood poot patrijs met witlof, uit en ananas
+Ingredienten voor 10 personen
+
+# First column:
+Patrijs met rode pootjes:
+5 x patrijs
+Peper, zout
+Fond 2 bakjes, 1 bakje water
+
+# Second column:
+Garnituur:
+Witlof 8/10 stronkjes
+Peper, zout, honing
+4 aardappels
+3 witte uien, 2 dl rode wijn
+azijn, 2/4 lepels suiker
+
+# Third column:
+Ananas saus:
+2 bakjes fond 1/4 ananas
+Peper, zout
+```
+
+For page-4.png analysis, the desired output should be:
+
+```
+November 2023
+Hoofdgerecht
+Hertenhaas met orzo risotto
+Ingredienten voor 10 personen
+
+# First column:
+Hertenhaas filet:
+2 filets
+peper, zout, olijfolie
+
+# Second column:
+Groenten:
+
+
+# Third column:
+Dressing:
+50 gr rode wijn azijn,
+2 sjalotjes, 100 gr
+zonnebloem olie, peper, zout
+```
+
+For page-2.png analysis, the desired output should be:
+
+```
+November 2023
+Voorgerecht
+hazenrug filet met kool salade en rode biet
+Ingredienten voor 10 personen
+
+# First column:
+Hazenrug filet;
+4 hazenrug filet
+Peper zout olijfolie
+6 grote champignons 2 sjalot. 1/4
+bieslook
+
+# Second column:
+Garnituur:
+1/2 spitskool
+1/4 rode kool
+Tijm peper zout, azijn
+suiker
+Bieten peper zout olijfolie
+
+# Third column:
+Dressing:
+50 gr rode wijn azijn,
+2 sjalotjes, 100 gr
+zonnebloem olie, peper, zout
+```
+
 ## Risks and Mitigations
 
 ### Risks
